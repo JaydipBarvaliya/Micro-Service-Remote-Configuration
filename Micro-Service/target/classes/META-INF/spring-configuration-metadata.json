@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "db",
+      "type": "io.javabrains.springbootconfig.DBConfig",
+      "sourceType": "io.javabrains.springbootconfig.DBConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "db.name",
+      "type": "java.lang.String",
+      "sourceType": "io.javabrains.springbootconfig.DBConfig"
+    },
+    {
+      "name": "db.port",
+      "type": "java.lang.String",
+      "sourceType": "io.javabrains.springbootconfig.DBConfig"
+    },
+    {
+      "name": "db.url",
+      "type": "java.lang.String",
+      "sourceType": "io.javabrains.springbootconfig.DBConfig"
+    }
+  ],
+  "hints": []
+}
